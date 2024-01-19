@@ -1,0 +1,1 @@
+Welcome to the "python_projects" repository! This is the space where I share the projects I am developing during my Python course. Through these projects, I aim to solidify my learning, explore different areas of Python programming, and enhance my skills in the language.
