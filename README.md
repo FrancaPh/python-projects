@@ -2,6 +2,7 @@ Welcome to the "python_projects" repository! This space is dedicated to sharing 
 
 Here are a couple of the projects:
 
+- **hello_world.py:** The classic hello world for start.
 - **selector.py:** A simple random selector for facetime decisions, dealing with imports.
 - **login.py:** A fake login allowing to simulate hacking into a super-secret mainframe lol, practicing if statements, imports, and print statements.
 - **madlibs.py:** Classic madlibs! Practicing with inputs and strings.
