@@ -2,18 +2,16 @@
 import random
 
 friends = [
-    'Luana',
-    'Brenda',
-    'Daniel',
-    'Matheus',
-    'Carla',
-    'Marcos',
-    'Alex',
-    'Gabrielle',
-    'Nadya'
+    'Gabriel',
+    'Gustavo',
+    'Giulia',
+    'Lucas',
+    'Marcela',
+    'Pedro',
+    'Luigi',
+    'Maria Fernanda',
+    'Claudia'
 ]
-
-# random.choice(array) --> random item in this array
 
 selected = random.choice(friends) # randomly choose a friend
 
