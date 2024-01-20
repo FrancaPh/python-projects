@@ -1,19 +1,23 @@
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/FrancaPh)
+
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)
+
 ## Python Repository
 
-This is a small repository for all my beginner projects in Python. These exercises were completed during a course, with a little help from ChatGPT for generating the texts and comments
+> A collection of my first python projects, trying to improve my programming skills
 
 ## Projects
-### Selector
-The code randomly selects a friend's name from the list and prints the chosen friend, suggesting who the user should FaceTime today.
 
-### Rock, Paper and Scissors
-The code defines a simple Rock, Paper, Scissors game. It prompts the user to input their choice ('r' for rock, 'p' for paper, 's' for scissors) and randomly selects a choice for the computer. The function `is_win` determines the winner based on the Rock, Paper, Scissors rules.
+| Project | Description |
+| --- | --- |
+| [Facetime Selector](https://github.com/FrancaPh/python-projects/blob/main/selector.py) | Select a friend randomly for your next Facetime. |
+| [🪨-📄-✂️](https://github.com/FrancaPh/python-projects/blob/main/rock_paper_scissors.py) | A basic rock-paper-scissors game against the computer. |
+| [Random Madlibs](https://github.com/FrancaPh/python-projects/blob/main/selector.py) | Selects one of the four possible madlibs (Harry Potter, Code, Zombie, Hunger Games) in the [sample_madlibs](https://github.com/FrancaPh/python-projects/tree/main/sample_madlibs). |
+| [Login](https://github.com/FrancaPh/python-projects/blob/main/login.py) | A simple user authentication system with a username and password. |
+| [Hangman](https://github.com/FrancaPh/python-projects/tree/main/hangman) | A hangman game with over 2500 possible english words. |
 
-### Random Madlibs
-The code imports different madlibs (Harry Potter, Code, Zombie, Hunger Games) from the sample_madlibs module. It then randomly selects one of these madlibs and calls its madlib() function to generate and display a madlib story. 
-
-### Madlibs Samples
-This `madlib()` function prompts the user for various inputs (such as body part, verb, adjectives, nouns, etc.) and then uses these inputs to generate and print a madlib story
-
-### Login
-The code simulates a basic authentication sistem, and the script uses the time module to introduce delays, creating a loading effect.
+![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
