@@ -22,7 +22,7 @@
 | [Hangman](https://github.com/FrancaPh/python-projects/tree/main/hangman) | A hangman game with over 2500 possible english words. |
 | [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 | [Minesweeper](https://github.com/FrancaPh/python-projects/tree/main/minesweeper.py) | A implementation of 2-D Minesweeper game. |
-| [Caesar Cipher](https://github.com/FrancaPh/python-projects/tree/main/caesar_cipher.py) | A  Caesar Cipher encryptor and decryptor. |
+| [Caesar Cipher](https://github.com/FrancaPh/python-projects/blob/main/caesar_cipher) | A  Caesar Cipher encryptor and decryptor. |
 | [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 | [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 | [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
