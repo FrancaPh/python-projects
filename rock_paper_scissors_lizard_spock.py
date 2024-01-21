@@ -5,7 +5,7 @@ win = [("scissors","paper"), ("paper","rock"), ("rock","lizard"),
        ("lizard","paper"), ("paper","Spock"), ("Spock","rock"),
        ("rock","scissors")]
 
-print("There are 3 rounds.\nYou are playing against Computron.\nYou will win if you have a higher point.\nEnter scissors, paper, rock, lizard or Spock.\n")
+print("There are 3 rounds.\nYou are playing against LCARS.\nYou will win if you have a higher point.\nEnter scissors, paper, rock, lizard or Spock.\n")
 
 choices = ["scissors", "paper", "rock", "lizard", "Spock"]
 
@@ -45,32 +45,32 @@ while count != 3:
             playerPoints += 1
         elif computerWins in win:
             if computerWins == win[0]:
-                print("Scissors cuts paper \nComputron Wins!")
+                print("Scissors cuts paper \nLCARS Wins!")
             elif computerWins == win[1]:
-                print("Paper covers rock \nComputron Wins!")
+                print("Paper covers rock \nLCARS Wins!")
             elif computerWins == win[2]:
-                print("Rock crushes lizard \nComputron Wins!")
+                print("Rock crushes lizard \nLCARS Wins!")
             elif computerWins == win[3]:
-                print("Lizard poisons Spock \nComputron Wins!")
+                print("Lizard poisons Spock \nLCARS Wins!")
             elif computerWins == win[4]:
-                print("Spock smashes scissors \nComputron Wins!")
+                print("Spock smashes scissors \nLCARS Wins!")
             elif computerWins == win[5]:
-                print("Scissors decapitates lizard \nComputron Wins!")
+                print("Scissors decapitates lizard \nLCARS Wins!")
             elif computerWins == win[6]:
-                print("Lizard eats paper \nComputron Wins!")
+                print("Lizard eats paper \nLCARS Wins!")
             elif computerWins == win[7]:
-                print("Paper disproves Spock \nComputron Wins!")
+                print("Paper disproves Spock \nLCARS Wins!")
             elif computerWins == win[8]:
-                print("Spock vapourizes rock \nComputron Wins!")
+                print("Spock vapourizes rock \nLCARS Wins!")
             elif computerWins == win[9]:
-                print("Rock crushes scissors \nComputron Wins!")
+                print("Rock crushes scissors \nLCARS Wins!")
             computerPoints += 1
         else:
-            print("Invalid response \nComputron Wins!")
+            print("Invalid response \nLCARS Wins!")
             computerPoints += 1
 
     elif player == computer:
-        print("Draw, Player and Computron gets 1 point")
+        print("Draw, Player and LCARS gets 1 point")
         playerPoints += 1
         computerPoints += 1
 
@@ -83,4 +83,4 @@ if playerPoints > computerPoints:
 elif playerPoints == computerPoints:
     print("It\'s a tie")
 else:
-    print("Computron Won, you lost :(")
+    print("LCARS Won, you lost :(")
