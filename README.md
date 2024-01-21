@@ -30,7 +30,7 @@
 ## FreeCodeCamp-Projects
 | Project | Description |
 | --- | --- |
-| [Arithmetic Formatter](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [Arithmetic Formatter](https://github.com/FrancaPh/python-projects/tree/main/arithmetic_calculator) | This function takes a list of arithmetic problems and arranges them vertically, side-by-side. It can also display answers when the second argument is set to `True`, providing an interactive tool for students to check their solutions. The function ensures proper formatting and returns meaningful error messages for any issues. |
 | [Time Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 | [Budget App](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 | [Polygon Area Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
