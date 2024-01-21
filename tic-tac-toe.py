@@ -1,5 +1,4 @@
 #cheat : high chance Win Strategy =>   1 - 8 - 6 - 5 - 4
-#new version
 import os
 
 #initialize 
@@ -107,14 +106,7 @@ def StartTheGame():
 
 #clean Old data in screen when event occur
 def CleanScreen():
-    #Linux and macOS
-    if(os.name == 'posix'):
-         os.system('clear') 
-    #windows
-    else:
          os.system('cls')
-
-
 
 #check Tie Game condition
 def TieGame():
