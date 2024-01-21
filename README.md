@@ -26,7 +26,14 @@
 | [Demerge PDFs](https://github.com/FrancaPh/python-projects/blob/main/demerge_pdfs/demerge_pdfs.py) | Python program to convert a large pdf file to number of different sized pdf files without any change in the large file. |
 | [QR Code Endoder & Decoder](https://github.com/FrancaPh/python-projects/tree/main/qrcode) | Converts text to QR code and vice versa. |
 | [Sudoku](https://github.com/FrancaPh/python-projects/blob/main/sudoku_solver.py) | This program can generate and solve Sudoku boards. |
-| [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
-| [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+
+## Scientific Computing with Python Projects
+| Project | Description |
+| --- | --- |
+| [Arithmetic Formatter](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [Time Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [Budget App](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [Polygon Area Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [Probability Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
