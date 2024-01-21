@@ -16,6 +16,7 @@
 | --- | --- |
 | [Facetime Selector](https://github.com/FrancaPh/python-projects/blob/main/selector.py) | Select a friend randomly for your next Facetime. |
 | [🪨-📄-✂️](https://github.com/FrancaPh/python-projects/blob/main/rock_paper_scissors.py) | A basic rock-paper-scissors game against the computer. |
+| [🪨-📄-✂️-🦎-🖖](https://github.com/FrancaPh/python-projects/blob/main/rock_paper_scissors_lizard_spock.py) | A rock-paper-scissors-lizard Spock game against LCARS. |
 | [Random Madlibs](https://github.com/FrancaPh/python-projects/blob/main/selector.py) | Selects one of the four possible madlibs (Harry Potter, Code, Zombie, Hunger Games) in the [sample_madlibs](https://github.com/FrancaPh/python-projects/tree/main/sample_madlibs). |
 | [Login](https://github.com/FrancaPh/python-projects/blob/main/login.py) | A simple user authentication system with a username and password. |
 | [Hangman](https://github.com/FrancaPh/python-projects/tree/main/hangman) | A hangman game with over 2500 possible english words. |
