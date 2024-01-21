@@ -1,23 +1,55 @@
 import random
 
-def play():
-    user = input("What's your choice? 'r' for rock, 'p' for paper, 's' for scissors\n")
-    computer = random.choice(['r', 'p', 's'])
+win = [("scissors","paper"), ("paper","rock"), ("rock","scissors")]
 
-    if user == computer:
-        return 'It\'s a tie'
+print("There are 3 rounds.\nYou are playing against Computer.\nYou will win if you have a higher point.\nEnter scissors, paper, rock, lizard or Spock.\n")
 
-    # r > s, s > p, p > r
-    if is_win(user, computer):
-        return 'You won!'
+choices = ["scissors", "paper", "rock"]
 
-    return 'You lost!'
+count = 0
+playerPoints = 0
+computerPoints = 0
 
-def is_win(player, opponent):
-    # return true if player wins
-    # r > s, s > p, p > r
-    if (player == 'r' and opponent == 's') or (player == 's' and opponent == 'p') \
-        or (player == 'p' and opponent == 'r'):
-        return True
+while count != 3:
+    player = input("What is your move? ")
+    computer = random.choice(choices)
+    #print(computer)
 
-print(play())
+    if player != computer:
+        playerWins = (player,computer)
+        computerWins = (computer,player)
+        if playerWins in win:
+            if playerWins == win[0]:
+                print("Scissors cuts paper \nYou Won!")
+            elif playerWins == win[1]:
+                print("Paper covers rock \nYou Won!")
+            elif playerWins == win[2]:
+                print("Rock crushes scissors \nYou Won!")
+            playerPoints += 1
+        elif computerWins in win:
+            if computerWins == win[0]:
+                print("Scissors cuts paper \nComputer Wins!")
+            elif computerWins == win[1]:
+                print("Paper covers rock \nComputer Wins!")
+            elif computerWins == win[2]:
+                print("Rock crushes scissors \nComputer Wins!")
+            computerPoints += 1
+        else:
+            print("Invalid response \nComputer Wins!")
+            computerPoints += 1
+
+    elif player == computer:
+        print("Draw, Player and Computer gets 1 point")
+        playerPoints += 1
+        computerPoints += 1
+
+    print("")
+
+    count += 1
+
+if playerPoints > computerPoints:
+    print("You Won :)")
+elif playerPoints == computerPoints:
+    print("It\'s a tie")
+else:
+    print("Computer Won, you lost :(")
