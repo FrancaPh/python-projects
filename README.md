@@ -24,7 +24,7 @@
 | [Minesweeper](https://github.com/FrancaPh/python-projects/tree/main/minesweeper.py) | A implementation of 2-D Minesweeper game. |
 | [Caesar Cipher](https://github.com/FrancaPh/python-projects/blob/main/caesar_cipher.py) | A  Caesar Cipher encryptor and decryptor. |
 | [Demerge PDFs](https://github.com/FrancaPh/python-projects/blob/main/demerge_pdfs/demerge_pdfs.py) | Python program to convert a large pdf file to number of different sized pdf files without any change in the large file. |
-| [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [QR Code Endoder & Decoder](https://github.com/FrancaPh/python-projects/tree/main/qrcode) | Converts text to QR code and vice versa. |
 | [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
