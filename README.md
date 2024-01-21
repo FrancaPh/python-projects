@@ -27,7 +27,7 @@
 | [QR Code Endoder & Decoder](https://github.com/FrancaPh/python-projects/tree/main/qrcode) | Converts text to QR code and vice versa. |
 | [Sudoku](https://github.com/FrancaPh/python-projects/blob/main/sudoku_solver.py) | This program can generate and solve Sudoku boards. |
 
-## Scientific Computing with Python Projects
+## FreeCodeCamp-Projects
 | Project | Description |
 | --- | --- |
 | [Arithmetic Formatter](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
