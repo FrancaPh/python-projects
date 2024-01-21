@@ -19,6 +19,6 @@
 | [Random Madlibs](https://github.com/FrancaPh/python-projects/blob/main/selector.py) | Selects one of the four possible madlibs (Harry Potter, Code, Zombie, Hunger Games) in the [sample_madlibs](https://github.com/FrancaPh/python-projects/tree/main/sample_madlibs). |
 | [Login](https://github.com/FrancaPh/python-projects/blob/main/login.py) | A simple user authentication system with a username and password. |
 | [Hangman](https://github.com/FrancaPh/python-projects/tree/main/hangman) | A hangman game with over 2500 possible english words. |
-| [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic_tac_toe.py) | A simple game of tic tac toe. |
+| [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
