@@ -27,13 +27,13 @@
 | [QR Code Endoder & Decoder](https://github.com/FrancaPh/python-projects/tree/main/qrcode) | Converts text to QR code and vice versa. |
 | [Sudoku](https://github.com/FrancaPh/python-projects/blob/main/sudoku_solver.py) | This program can generate and solve Sudoku boards. |
 
-## FreeCodeCamp-Projects
+## FreeCodeCamp-Projects [here](https://www.freecodecamp.org/certification/chandrikadeb/scientific-computing-with-python-v7) :link:
 | Project | Description |
 | --- | --- |
 | [Arithmetic Formatter](https://github.com/FrancaPh/python-projects/tree/main/arithmetic_calculator) | This function takes a list of arithmetic problems and arranges them vertically, side-by-side. It can also display answers when the second argument is set to `True`, providing an interactive tool for students to check their solutions. The function ensures proper formatting and returns meaningful error messages for any issues. |
-| [Time Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [Time Calculator](https://github.com/FrancaPh/python-projects/tree/main/time_calculator) | A tool for adding time durations to given start times. The function takes a start time in the 12-hour clock format, a duration time in hours and minutes, and an optional starting day of the week parameter (case-insensitive). It then computes the result by adding the duration time to the start time. |
 | [Budget App](https://github.com/FrancaPh/python-projects/tree/main/budget_app) | This class allows you to instantiate objects representing various budget categories such as food, clothing, and entertainment. When creating objects, simply provide the name of the category. The class features an instance variable called ledger, a list to track financial transactions. |
 | [Polygon Area Calculator](https://github.com/FrancaPh/python-projects/tree/main/polygon_area_calculator) | This project focuses on implementing object-oriented programming principles to create a Rectangle class and a Square class in Python. |
-| [Probability Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [Probability Calculator](https://github.com/FrancaPh/python-projects/tree/main/probability_calculator) |  The goal is to estimate the probability of drawing specific balls randomly from a hat. Instead of relying on complex mathematical calculations, this project employs a programmatic approach by conducting a large number of experiments to approximate the probability. |
 
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
