@@ -20,5 +20,6 @@
 | [Login](https://github.com/FrancaPh/python-projects/blob/main/login.py) | A simple user authentication system with a username and password. |
 | [Hangman](https://github.com/FrancaPh/python-projects/tree/main/hangman) | A hangman game with over 2500 possible english words. |
 | [Tic-Tac-Toe](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [Minesweeper](https://github.com/FrancaPh/python-projects/tree/main/minesweeper.py) | A implementation of 2-D Minesweeper game. |
 
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
