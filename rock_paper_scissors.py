@@ -2,7 +2,7 @@ import random
 
 win = [("scissors","paper"), ("paper","rock"), ("rock","scissors")]
 
-print("There are 3 rounds.\nYou are playing against Computer.\nYou will win if you have a higher point.\nEnter scissors, paper, rock, lizard or Spock.\n")
+print("There are 3 rounds.\nYou are playing against Computer.\nYou will win if you have a higher point.\nEnter scissors, paper, rock.\n")
 
 choices = ["scissors", "paper", "rock"]
 
