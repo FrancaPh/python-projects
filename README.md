@@ -33,7 +33,7 @@
 | [Arithmetic Formatter](https://github.com/FrancaPh/python-projects/tree/main/arithmetic_calculator) | This function takes a list of arithmetic problems and arranges them vertically, side-by-side. It can also display answers when the second argument is set to `True`, providing an interactive tool for students to check their solutions. The function ensures proper formatting and returns meaningful error messages for any issues. |
 | [Time Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 | [Budget App](https://github.com/FrancaPh/python-projects/tree/main/budget_app) | This class allows you to instantiate objects representing various budget categories such as food, clothing, and entertainment. When creating objects, simply provide the name of the category. The class features an instance variable called ledger, a list to track financial transactions. |
-| [Polygon Area Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
+| [Polygon Area Calculator](https://github.com/FrancaPh/python-projects/tree/main/polygon_area_calculator) | This project focuses on implementing object-oriented programming principles to create a Rectangle class and a Square class in Python. |
 | [Probability Calculator](https://github.com/FrancaPh/python-projects/tree/main/tic-tac-toe.py) | A simple game of tic tac toe. |
 
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
