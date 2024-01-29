@@ -1,6 +1,7 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/FrancaPh)
+[![License](https://img.shields.io/github/license/FrancaPh/python-projects?style=social&logo=github)](https://github.com/FrancaPh/python-projects/blob/main/LICENSE)
 
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
@@ -8,7 +9,8 @@
 
 ## Python Repository
 
-> A collection of my first python projects, trying to improve my programming skills
+> A collection of my first python projects, trying to improve my programming skills 
+
 
 ## Projects
 
