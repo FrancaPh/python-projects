@@ -38,4 +38,10 @@
 | [Polygon Area Calculator](https://github.com/FrancaPh/python-projects/tree/main/polygon_area_calculator) | This project focuses on implementing object-oriented programming principles to create a Rectangle class and a Square class in Python. |
 | [Probability Calculator](https://github.com/FrancaPh/python-projects/tree/main/probability_calculator) |  The goal is to estimate the probability of drawing specific balls randomly from a hat. Instead of relying on complex mathematical calculations, this project employs a programmatic approach by conducting a large number of experiments to approximate the probability. |
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)
